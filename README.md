@@ -125,11 +125,11 @@ Bu proje, ticari otomasyon süreçlerini optimize etmek ve yönetim süreçlerni
 
 ![8](https://github.com/user-attachments/assets/0c877d87-3e3e-4d89-8a6f-6765501c5d73)
 
-**Kasa Giriş Hareketler**
+**Kasa Giriş Hareketleri**
 
 ![9](https://github.com/user-attachments/assets/336cd1d8-8146-4652-b968-31367d23cc97)
 
-**Kasa Çıkış Hareketler**
+**Kasa Çıkış Hareketleri**
 
 ![18](https://github.com/user-attachments/assets/c7494e63-16ca-4180-a02f-d5b085d4ea13)
 
