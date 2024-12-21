@@ -94,10 +94,12 @@ Bu proje, ticari otomasyon süreçlerini optimize etmek ve yönetim süreçlerni
 ---
 
 **Kullanıcı Arayüzü**
+---
 
 ![Ekran Alıntısı 1](https://github.com/user-attachments/assets/c9f40a7e-78ad-4f33-be13-b4b5227ed765)
 
 **Anasayfa**
+---
 
 ![Ekran Alıntısı 2](https://github.com/user-attachments/assets/499dbd12-14d4-475d-ad30-8a481fa36d86)
 
