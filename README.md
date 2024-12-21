@@ -3,7 +3,6 @@
 Bu proje, ticari otomasyon süreçlerini optimize etmek ve yönetim süreçlerni daha etkin hale getirmek amacıyla geliştirilmiştir. Sistem; stok yönetimi, faturalama, müşteri hesap yönetimi, raporlama, görsel analiz ve satış hareketleri gibi ayrıntılı modüller içeriyor.
 
 ✨ **Proje Modülleri**
----
 
 👤 **Kullanıcı Girişi**
 ---
@@ -17,7 +16,7 @@ Bu proje, ticari otomasyon süreçlerini optimize etmek ve yönetim süreçlerni
 
 • Ürün bilgileri bulunmaktadır.
 
-👥 **Müşteriler ve Firmalar
+👥 **Müşteriler ve Firmalar**
 ---
 
 • Müşteri ve firma bilgileri bulunmaktadır.
